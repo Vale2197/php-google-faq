@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.container img {
+    width: 200px;
+}
+
+.container h3 {
+    font-size: 2.5rem;
+    color: grey;
+    font-weight: lighter;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    border-bottom: 1px solid grey;
+}
+
+ul li {
+    padding: 1rem;
+}
+
+ul li:last-child {
+    color: blue;
+    border-bottom: 2px solid blue;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+main p {
+    padding: 1rem 0;
+}
+
+main h2 {
+    padding-top: 3rem;
+}

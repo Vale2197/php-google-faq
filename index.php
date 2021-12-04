@@ -72,6 +72,12 @@ $paragrafi = [
 </head>
 <body>
     <header>
+        <div class="container">
+            <img src="https://www.google.com/logos/doodles/2021/seasonal-holidays-2021-6753651837109324-6752733080595603-cst.gif" alt="#">
+            <h3>
+                Privacy e termini
+            </h3>
+        </div>
     <nav>
         <ul>
             <?php 
